@@ -1,0 +1,22 @@
+{
+  "name": "bankin-web-scrapping-challenge",
+  "version": "1.0.0",
+  "description": "Bankin' Web Scrapping Challenge",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node index.js --debug",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Clément Paris <clementparis016@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=8.9"
+  },
+  "engineStrict": true
+}
